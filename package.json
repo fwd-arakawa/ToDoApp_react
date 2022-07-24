@@ -1,7 +1,7 @@
 {
-  "name": "todoappreact",
+  "name": "react-todo",
   "version": "1.0.0",
-  "description": "reactでtodoアプリ作ってみた。",
+  "description": "react版TODOアプリ",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
